@@ -1,0 +1,1 @@
+@py.exe D:\userdata\vijs\Desktop\Python_programs\allmycats.py %*

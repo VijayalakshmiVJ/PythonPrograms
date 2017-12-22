@@ -1,0 +1,266 @@
+1493981469341	geckodriver	INFO	Listening on 127.0.0.1:50597
+1493981488228	geckodriver	INFO	Listening on 127.0.0.1:50605
+1493981709677	geckodriver	INFO	Listening on 127.0.0.1:50644
+1493981711539	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.pf9tVtBBesBS
+1493981711554	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox
+1493982006915	geckodriver	INFO	Listening on 127.0.0.1:65109
+1493982008760	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.IR7QLUfn56KF
+1493982008771	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox
+1493982129340	geckodriver	INFO	Listening on 127.0.0.1:65165
+1493982131245	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.EL3L3DYrBKCV
+1493982131261	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493982131308	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65171
+1493982132581	Marionette	INFO	Listening on port 65171
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1493982189050	geckodriver	INFO	Listening on 127.0.0.1:65215
+1493982190941	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.e1kmQjvB1tMk
+1493982190950	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493982190998	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65222
+1493982192381	Marionette	INFO	Listening on port 65222
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.error: newtab: 
+  Message: TypeError: JSON.parse(...).query.results is null
+  Stack:
+    Weather/getWeatherInfo/result@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:448:30
+BrowserGap/xhrForMain/req<.onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:693:25
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+onreadystatechange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/request.js:104:7
+
+1493982748130	geckodriver	INFO	Listening on 127.0.0.1:65359
+1493982750029	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.IFNIEaiHfPG0
+1493982750040	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493982750082	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65365
+1493982751361	Marionette	INFO	Listening on port 65365
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.error: newtab: 
+  Message: TypeError: JSON.parse(...).query.results is null
+  Stack:
+    Weather/getWeatherInfo/result@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:448:30
+BrowserGap/xhrForMain/req<.onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:693:25
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+onreadystatechange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/request.js:104:7
+
+1493983162737	geckodriver	INFO	Listening on 127.0.0.1:65469
+1493983164640	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.i3DOXh9gBXGp
+1493983164656	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493983164687	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65475
+1493983165869	Marionette	INFO	Listening on port 65475
+console.error: newtab: 
+  Message: TypeError: JSON.parse(...).query.results is null
+  Stack:
+    Weather/getWeatherInfo/result@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:448:30
+BrowserGap/xhrForMain/req<.onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:693:25
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+onreadystatechange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/request.js:104:7
+
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1493983205462	geckodriver	INFO	Listening on 127.0.0.1:65525
+1493983207397	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.yiwUY1iw3EiH
+1493983207412	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493983207459	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65531
+1493983208643	Marionette	INFO	Listening on port 65531
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.error: newtab: 
+  Message: TypeError: JSON.parse(...).query.results is null
+  Stack:
+    Weather/getWeatherInfo/result@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:448:30
+BrowserGap/xhrForMain/req<.onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:693:25
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+onreadystatechange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/request.js:104:7
+
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1723:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1660:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1723, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1723:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1660:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1723, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.highlighter30
+1493983423229	geckodriver	INFO	Listening on 127.0.0.1:49280
+1493983425108	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.bmFHwmPA9fGJ
+1493983425120	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493983425165	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49286
+1493983426436	Marionette	INFO	Listening on port 49286
+console.error: newtab: 
+  Message: TypeError: JSON.parse(...).query.results is null
+  Stack:
+    Weather/getWeatherInfo/result@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:448:30
+BrowserGap/xhrForMain/req<.onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:693:25
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+onreadystatechange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/request.js:104:7
+
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1493983474969	geckodriver	INFO	Listening on 127.0.0.1:49337
+1493983476867	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.Ql8Qqjo94SHL
+1493983476880	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493983476923	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49343
+1493983478201	Marionette	INFO	Listening on port 49343
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1493983637372	geckodriver	INFO	Listening on 127.0.0.1:49429
+1493983639291	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.IK5MLSQQFkvs
+1493983639307	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493983639354	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49435
+1493983640536	Marionette	INFO	Listening on port 49435
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1493983666733	geckodriver	INFO	Listening on 127.0.0.1:49485
+1493983668637	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.GSCHf53dy6O3
+1493983668652	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493983668715	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49491
+1493983669962	Marionette	INFO	Listening on port 49491
+console.error: newtab: 
+  Message: TypeError: JSON.parse(...).query.results is null
+  Stack:
+    Weather/getWeatherInfo/result@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:448:30
+BrowserGap/xhrForMain/req<.onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:693:25
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+onreadystatechange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/request.js:104:7
+
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.error: 
+  Message: Error: Source map at https://nokiameetings.webex.com/svc3100/svccomponents/html/css/futurama.css.map not found or invalid
+  Stack:
+    StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:759:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:933:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:11
+
+StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:759:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:933:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:11
+console.error: 
+  Protocol error (unknownError): Error: Source map at https://nokiameetings.webex.com/svc3100/svccomponents/html/css/futurama.css.map not found or invalid
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1723:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1660:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1723, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1723:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1660:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1723, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+evToolsUtils.js:101:14
+Line: 1723, column: 1
+console.error: 
+  Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1723:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1660:7
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1723, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.highlighter30
+://gre/modules/commonjs/sdk/event/core.js:89:38
+onreadystatechange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/request.js:104:7
+
+1493984712329	geckodriver	INFO	Listening on 127.0.0.1:56627
+1493984714195	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.Sm6GfBGl9rZh
+1493984714209	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493984714295	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56633
+1493984716160	Marionette	INFO	Listening on port 56633
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.error: newtab: 
+  Message: TypeError: JSON.parse(...).query.results is null
+  Stack:
+    Weather/getWeatherInfo/result@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:448:30
+BrowserGap/xhrForMain/req<.onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:693:25
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+onreadystatechange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/request.js:104:7
+
+1493984736000	geckodriver	INFO	Listening on 127.0.0.1:56676
+1493984737836	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.VV1588MLDPP8
+1493984737847	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493984737919	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56682
+1493984739824	Marionette	INFO	Listening on port 56682
+console.error: newtab: 
+  Message: TypeError: JSON.parse(...).query.results is null
+  Stack:
+    Weather/getWeatherInfo/result@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:448:30
+BrowserGap/xhrForMain/req<.onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:693:25
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+onreadystatechange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/request.js:104:7
+
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/data/newtab.js, line 1456: Error: Permission denied to access property "document"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/data/newtab.js, line 1471: Error: Permission denied to access property "document"
+1493984837991	geckodriver	INFO	Listening on 127.0.0.1:56732
+1493984839879	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.cLOIIT3SANoN
+1493984839879	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493984839957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56738
+1493984841827	Marionette	INFO	Listening on port 56738
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1493985137521	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+ile	INFO	Using profile path C:\TEMP\rust_mozprofile.RIzNwhBWQQGO
+1493984991624	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493984991687	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56809
+1493984993508	Marionette	INFO	Listening on port 56809
+console.error: newtab: 
+  Message: TypeError: JSON.parse(...).query.results is null
+  Stack:
+    Weather/getWeatherInfo/result@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:448:30
+BrowserGap/xhrForMain/req<.onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:693:25
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+onreadystatechange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/request.js:104:7
+
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://s.yimg.com/cv/ae/01865301v1/index.html, line 29: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: https://www.godrejproperties.com/godrejplatinum/landing_page_assets/js/jquery.malihu.PageScroll2id.min.js, line 1: TypeError: t.location is null
+1493985148637	geckodriver	INFO	Listening on 127.0.0.1:56891
+1493985150509	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.jpV0bC0HcJB9
+1493985150509	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493985150602	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56897
+1493985152573	Marionette	INFO	Listening on port 56897
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://s.yimg.com/cv/ae/01865301v1/index.html, line 29: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1493985221491	geckodriver	INFO	Listening on 127.0.0.1:56955
+1493985223379	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.ynlnZnnX7SJS
+1493985223379	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493985223457	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56961
+1493985225376	Marionette	INFO	Listening on port 56961
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/data/newtab.js, line 1471: Error: Permission denied to access property "document"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/loader/sandbox.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/data/newtab.js, line 1456: Error: Permission denied to access property "document"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js, line 1218: TypeError: currentEngine.search is not a function
+1493985341259	geckodriver	INFO	Listening on 127.0.0.1:57012
+1493985343115	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.LQdhWY2ZnG2B
+1493985343115	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1493985343224	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57018
+1493985345134	Marionette	INFO	Listening on port 57018
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://s.yimg.com/cv/ae/01865301v1/index.html, line 29: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 471: TypeError: this.tablesData[table] is undefined
+1494233902610	geckodriver	INFO	Listening on 127.0.0.1:50240
+1494233904486	mozprofile::profile	INFO	Using profile path C:\TEMP\rust_mozprofile.9vENdWH6YPVG
+1494233904497	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1494233904547	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50246
+1494233906325	Marionette	INFO	Listening on port 50246
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.aab6b9ecf3d4537052d5.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.error: newtab: 
+  Message: TypeError: JSON.parse(...).query.results is null
+  Stack:
+    Weather/getWeatherInfo/result@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:448:30
+BrowserGap/xhrForMain/req<.onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-g80ec8llebk5fq-at-jetpack/lib/main.js:693:25
+emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+onreadystatechange@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/request.js:104:7
+

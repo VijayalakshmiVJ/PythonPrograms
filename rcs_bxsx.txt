@@ -1,0 +1,172 @@
+Version history of module RCS_BXSX.PAC 31.29-0          
+FROZEN 14-JUN-2017 MOMEHTA
+COMPONENT NAME  : RCS_BXSX.PAC 31.28-0 --> 31.29-0 CHANGED BY: MOMEHTA
+RESPONSIBILITY  : RBHO
+REQUIRED ENV    : SG 9.16-2
+REQUIRED SW     : ASBSC
+3RD PARTY SW    : -
+EFFECTS ON HW   : -
+EFFECTS ON DOC  : -
+WARMING COMPAT. : YES
+
+MML INTERFACE
+CHANGED         : NO
+
+CHANGES:
+
+  CHANGE NR     : 2
+  CHANGE TYPE   : J5
+  REFERENCE     : RCGSTA version updated in COM file  with 32_5.0
+  EXTERNAL DSCR : 
+                  RCGSTA version updated in COM file with 32_5.0
+  INTERNAL DSCR : 
+                  RCGSTA version updated in COM file with 32_5.0
+  TESTS DONE    : 
+                  NA
+
+  CHANGE NR     : 1
+  CHANGE TYPE   : V
+  REFERENCE     : PR248280
+  EXTERNAL DSCR : 
+                  PR248280 : RCS log writing in BCSU while TRX
+                   reconfiguring
+  INTERNAL DSCR : 
+                  parameters_even_handling() function got modified
+  TESTS DONE    : 
+                  YES
+
+  CHANGE NR     : 2
+  CHANGE TYPE   : V
+  REFERENCE     : PR248280
+  EXTERNAL DSCR : 
+                  PR248280 : RCS log writing in BCSU while TRX
+                   reconfiguring
+  INTERNAL DSCR : 
+                  parameters_even_handling() function got modified
+  TESTS DONE    : 
+                  YES
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Version history of module RCS_BXSX.PAC 31.28-0            
+DANGEROUS 14-JUN-2017 MOMEHTA
+COMPONENT NAME  : RCS_BXSX.PAC 31.27-0 --> 31.28-0 CHANGED BY: MOMEHTA
+RESPONSIBILITY  : RBHO
+REQUIRED ENV    : NA
+REQUIRED SW     : -
+3RD PARTY SW    : -
+EFFECTS ON HW   : -
+EFFECTS ON DOC  : -
+WARMING COMPAT. : YES
+
+                  -
+MML INTERFACE
+CHANGED         : NO
+
+CHANGES:
+
+  CHANGE NR     : 1
+  CHANGE TYPE   : V
+  REFERENCE     : -
+  EXTERNAL DSCR : 
+                  -
+  INTERNAL DSCR : 
+                  -
+  TESTS DONE    : 
+                  -
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Version history of module RCS_BXSX.PAC 31.27-0            
+FROZEN 01-JUN-2017 TLINDGRE
+COMPONENT NAME  : RCS_BXSX.PAC 31.26-0 --> 31.27-0 CHANGED BY: TLINDGRE
+RESPONSIBILITY  : RBHO
+REQUIRED ENV    : SGENV 9.16-1
+REQUIRED SW     : ASBSC18A
+3RD PARTY SW    : -
+EFFECTS ON HW   : -
+EFFECTS ON DOC  : -
+WARMING COMPAT. : YES
+
+MML INTERFACE
+CHANGED         : NO
+
+CHANGES:
+
+  CHANGE NR     : 1
+  CHANGE TYPE   : V
+  REFERENCE     : Case comp_osc_05
+  EXTERNAL DSCR : 
+                  AMR related lower limit checking is missing.
+  INTERNAL DSCR : 
+                  Routine comp_osc_ho_tres_values. Added AMR related lower
+                   limit checking.
+                  
+                  Changed module:
+                  RCSH03SX.C
+  TESTS DONE    : 
+                  OK
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Version history of module RCS_BXSX.PAC 31.26-0            
+FROZEN 01-JUN-2017 TLINDGRE
+COMPONENT NAME  : RCS_BXSX.PAC 31.25-0 --> 31.26-0 CHANGED BY: TLINDGRE
+RESPONSIBILITY  : RBHO
+REQUIRED ENV    : SGENV 9.16-1
+REQUIRED SW     : ASBSC18A
+3RD PARTY SW    : -
+EFFECTS ON HW   : -
+EFFECTS ON DOC  : -
+WARMING COMPAT. : YES
+
+MML INTERFACE
+CHANGED         : NO
+
+CHANGES:
+
+  CHANGE NR     : 1
+  CHANGE TYPE   : V
+  REFERENCE     : Case comp_osc_05
+  EXTERNAL DSCR : 
+                  AMR related lower limit checking is missing.
+  INTERNAL DSCR : 
+                  Routine comp_osc_ho_tres_values. Added AMR related lower
+                   limit checking.
+                  
+                  Changed module:
+                  RCSH03SX.C
+  TESTS DONE    : 
+                  OK
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Version history of module RCS_BXSX.PAC 31.25-0            
+FROZEN 26-MAY-2017 TLINDGRE
+COMPONENT NAME  : RCS_BXSX.PAC 31.24-0 --> 31.25-0 CHANGED BY: TLINDGRE
+RESPONSIBILITY  : RBHO
+REQUIRED ENV    : SGENV 9.16-1
+REQUIRED SW     : ASBSC18A
+3RD PARTY SW    : -
+EFFECTS ON HW   : -
+EFFECTS ON DOC  : -
+WARMING COMPAT. : YES
+
+MML INTERFACE
+CHANGED         : NO
+
+CHANGES:
+
+  CHANGE NR     : 1
+  CHANGE TYPE   : J5
+  REFERENCE     : Version update for tools
+  EXTERNAL DSCR : 
+                  Pactools.com 4.2-0 updated to sack
+  INTERNAL DSCR : 
+                  Pactools.com updated and so ccu38_sys:dxall.lib was
+                  taken into use.
+                  Changed module:
+                  RCS_BXSX.COM
+  TESTS DONE    : 
+                  NO
+

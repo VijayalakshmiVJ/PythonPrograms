@@ -1,0 +1,7 @@
+char  mac_data : 2
+char rlc_data : 3
+char rl_data : 3
+int vj_data
+char 1_data : 1
+char 2_data : 3
+char 3_data : 4
