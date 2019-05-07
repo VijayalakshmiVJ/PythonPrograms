@@ -20,7 +20,7 @@ elem.click()
 browser.implicitly_wait(10)
 
 passwordElem = browser.find_element_by_name('password')
-passwordElem.send_keys('19Seshamaaro89')
+passwordElem.send_keys()
 elem = browser.find_element_by_xpath("//*[@id='passwordNext']/content/span")
 elem.click()
 
